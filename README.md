@@ -3,4 +3,4 @@
 ---
 
 ## Demo
-![Type Writer Animation Demo](demo/demo.png)
+![Type Writer Animation Demo](demo/demo.gif)
